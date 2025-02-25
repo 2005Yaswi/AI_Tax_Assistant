@@ -1,3 +1,4 @@
 streamlit
 google-generativeai
 easyocr
+python-dotenv
